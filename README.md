@@ -7,7 +7,7 @@ In this project, we analyzed bike sharing data from Citi Bike in New York with t
 ## Results
 
 The interactive Tableau vizualizations can be accessed through the following link: 
-[link to dashboard](https://public.tableau.com/profile/ryan.cook1987#!/vizhome/Citi_Bike_Challenge_16178270170390/Story1?publish=yes)
+[link to bikesharing dashboard](https://public.tableau.com/profile/ryan.cook1987#!/vizhome/Citi_Bike_Challenge_16178270170390/Story1?publish=yes)
 
 The following images are screenshots of the interactive data visualizations we created. 
 
